@@ -1,0 +1,14 @@
+[
+    {
+        "quantity": 5,
+        "name": "Socks X"
+    },
+    {
+        "quantity": 12,
+        "name": "Socks Y"
+    },
+    {
+        "quantity": 18,
+        "name": "Socks Z"
+    }
+]
