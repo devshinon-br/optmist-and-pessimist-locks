@@ -11,7 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/sock")
+@RequestMapping("pessimistic/sock")
 public class SockController {
 
     @Autowired
